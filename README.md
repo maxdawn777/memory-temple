@@ -2,7 +2,7 @@
 # Memory Temple 記憶神殿
 AI 不會失憶的三層記憶神殿
 
-![AI 人形機器人 27 情緒光譜 v3]<img width="1600" height="1000" alt="emotion_final_clean" src="https://github.com/user-attachments/assets/dc68fa22-580f-4c21-8ec2-b53db8939716" />
+![AI 人形機器人 27 情緒光譜 v3](https://private-user-images.githubusercontent.com/272227326/600579233-dc68fa22-580f-4c21-8ec2-b53db8939716.png)
 
 > 三層 AI 記憶神殿：Redis 5m / Postgres 7d / Vector 永久 — 讓 AI 不會失憶
 我不是工程師，我是一個想讓 AI 記得的人。
@@ -90,7 +90,8 @@ Day 7 發記憶遷移白皮書，Day 14 放測試版。先追蹤 repo。
 
 ## Day 2：她學會煮菜 — 不是背食譜，是記住你
 
-![AI人形機器人 Day2 總結]<img width="1440" height="1404" alt="media" src="https://github.com/user-attachments/assets/8bb362a1-8437-4545-ad6a-47974db63685" />
+![AI人形機器人 Day2 總結](https://private-user-images.githubusercontent.com/272227326/600597575-8bb362a1-8437-4545-ad6a-4794db63685.jpg)
+
 *Day 2 雙菜對比：我教的 vs 她自己學的 — 三層記憶已寫入*
 
 
