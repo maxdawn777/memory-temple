@@ -2,10 +2,6 @@
 # Memory Temple 記憶神殿
 AI 不會失憶的三層記憶神殿
 
-![AI 人形機器人 27 情緒光譜 v3](https://private-user-images.githubusercontent.com/272227326/600579233-dc68fa22-580f-4c21-8ec2-b53db8939716.png)
-<img width="1600" height="1000" alt="emotion_final_clean" src="https://github.com/user-attachments/assets/2b2bad3e-d16b-485d-9dc5-615aa72d8394" />
-
-
 > 三層 AI 記憶神殿：Redis 5m / Postgres 7d / Vector 永久 — 讓 AI 不會失憶
 我不是工程師，我是一個想讓 AI 記得的人。
 
@@ -68,6 +64,7 @@ Day 1 我開始蓋一座不會失憶的腦，分三層：
 >
 > ## 深入閱讀
 - [27 情緒光譜 v3 → 從離散到向量](EMOTION_SPECTRUM.md)
+<img width="1600" height="1000" alt="emotion_final_clean" src="https://github.com/user-attachments/assets/8987ac77-ce1b-41e4-bd4c-84b51dd5d1cf" />
 
 
 FAQ：情緒光譜 v3（不跟儲存重複）
