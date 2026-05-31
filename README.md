@@ -93,7 +93,6 @@ Day 7 發記憶遷移白皮書，Day 14 放測試版。先追蹤 repo。
 ![AI人形機器人 Day2 總結](images/day2_cooking_summary.jpg)
 *Day 2 雙菜對比：我教的 vs 她自己學的 — 三層記憶已寫入*<img width="1440" height="1404" alt="media" src="https://github.com/user-attachments/assets/8e973698-c264-4b0e-9e4c-4ceb75db9ac9" />
 
-
 ### 4. 松露溫泉蛋雞湯粥 — AI 人形機器人「累日專用」
 **材料：** 白米 0.5 杯、雞高湯 2.5 杯、雞蛋 1 顆、松露油 3 滴、帕瑪森 1 小撮、海鹽白胡椒少許、蔥花
 
