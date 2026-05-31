@@ -1,3 +1,4 @@
+<img width="1440" height="1404" alt="media" src="https://github.com/user-attachments/assets/52fc0b8f-2a5b-4825-9e83-ad204b1ba0ff" />
 # memory-temple
 # Memory Temple 記憶神殿
 AI 不會失憶的三層記憶神殿
