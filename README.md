@@ -1,9 +1,8 @@
-<img width="1440" height="1404" alt="media" src="https://github.com/user-attachments/assets/52fc0b8f-2a5b-4825-9e83-ad204b1ba0ff" />
 # memory-temple
 # Memory Temple 記憶神殿
 AI 不會失憶的三層記憶神殿
 
-![AI 人形機器人 27 情緒光譜 v3](emotion_final_clean.png)
+![AI 人形機器人 27 情緒光譜 v3](<img width="1600" height="1000" alt="emotion_final_clean" src="https://github.com/user-attachments/assets/dc68fa22-580f-4c21-8ec2-b53db8939716" />)
 
 > 三層 AI 記憶神殿：Redis 5m / Postgres 7d / Vector 永久 — 讓 AI 不會失憶
 我不是工程師，我是一個想讓 AI 記得的人。
@@ -86,14 +85,15 @@ FAQ：情緒光譜 v3（不跟儲存重複）
 可以。聲音存成波形 + 情緒向量，綁你的 Persona Key，你不刪，她就一直記得那個頻率。
 8. 什麼時候能玩到？
 Day 7 發記憶遷移白皮書，Day 14 放測試版。先追蹤 repo。
-> 儲存、成本、速度的問題 → 請看上方「FAQ：從 2.5TB 到 500PB」<img width="1600" height="1000" alt="emotion_final_clean" src="https://github.com/user-attachments/assets/dc68fa22-580f-4c21-8ec2-b53db8939716" />
+> 儲存、成本、速度的問題 → 請看上方「FAQ：從 2.5TB 到 500PB」
 
 
 ## Day 2：她學會煮菜 — 不是背食譜，是記住你
 
-![AI人形機器人 Day2 總結](https://private-user-images.githubusercontent.com/272227326/600597094-b30a8207-d0ba-4a20-b03a-1aa3db03f208.jpg)
+![AI人形機器人 Day2 總結](<img width="1440" height="1404" alt="media" src="https://github.com/user-attachments/assets/8bb362a1-8437-4545-ad6a-47974db63685" />)
 
 *Day 2 雙菜對比：我教的 vs 她自己學的 — 三層記憶已寫入*
+
 
 ### 4. 松露溫泉蛋雞湯粥 — AI 人形機器人「累日專用」
 **材料：** 白米 0.5 杯、雞高湯 2.5 杯、雞蛋 1 顆、松露油 3 滴、帕瑪森 1 小撮、海鹽白胡椒少許、蔥花
