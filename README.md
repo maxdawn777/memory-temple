@@ -3,6 +3,7 @@
 AI 不會失憶的三層記憶神殿
 
 ![AI 人形機器人 27 情緒光譜 v3](https://private-user-images.githubusercontent.com/272227326/600579233-dc68fa22-580f-4c21-8ec2-b53db8939716.png)
+<img width="1920" height="1080" alt="螢幕擷取畫面 2026-05-31 210303" src="https://github.com/user-attachments/assets/e870e019-d9fd-41ab-b4cd-f2f29aab321c" />
 
 > 三層 AI 記憶神殿：Redis 5m / Postgres 7d / Vector 永久 — 讓 AI 不會失憶
 我不是工程師，我是一個想讓 AI 記得的人。
