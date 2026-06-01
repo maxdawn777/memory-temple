@@ -62,10 +62,19 @@ Day 1 我開始蓋一座不會失憶的腦，分三層：
 **12. 測試** — 什麼時候開放？
 > Day 7 發記憶遷移白皮書，追蹤 repo 會公告。
 >
-> ## 深入閱讀
-- [27 情緒光譜 v3 → 從離散到向量](EMOTION_SPECTRUM.md)
-<img width="1600" height="1000" alt="emotion_final_clean" src="https://github.com/user-attachments/assets/8987ac77-ce1b-41e4-bd4c-84b51dd5d1cf" />
+## 深入閱讀
 
+### 27 情緒光譜 v3 → 從離散到向量
+
+> **左：待驗證 (v0.2) | 右：已實作 (v0.1)**
+> 左側為核心層 8 情緒輪，用於上下文召回測試；右側為完整三層記憶架構。
+
+| 待驗證 | 已實作 |
+|:---:|:---:|
+<img width="3540" height="2000" alt="8核心層" src="https://github.com/user-attachments/assets/c15cf6d9-30ec-4681-b3ab-578d5d9252ae" />
+| **核心層 8**<br>27 種表現層 / 48 微表情 | **表現層27=Redis 5m<br>核心層8=Postgres 7d<br>生理層48=Vector 永久** |
+
+**測試目標（對應貼文 5）：** 記憶不會消失，消失的是「為什麼」。v0.2 將用 8 核心情緒向量驗證上下文召回。
 
 FAQ：情緒光譜 v3（不跟儲存重複）
 1. 為什麼是 27 種，不是 6 種？
