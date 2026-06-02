@@ -159,6 +159,6 @@ Day 7 發記憶遷移白皮書，Day 14 放測試版。先追蹤 repo。
 
 **完整計算書 → [./500PB.md](./500PB.md)**
 
-![家庭容量表](<img width="1080" height="2240" alt="家庭記憶量表" src="https://github.com/user-attachments/assets/97733ce8-1ccd-4186-8e0c-44a4f3e37ae7" />)
+![家庭容量表]<img width="1080" height="2240" alt="家庭記憶量表" src="https://github.com/user-attachments/assets/97733ce8-1ccd-4186-8e0c-44a4f3e37ae7" />
 
 ---
